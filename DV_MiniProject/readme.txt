@@ -10,6 +10,6 @@ How to Run?
 	-->	http://localhost:8000/
 
 
-GitHub link --> https://github.com/shekar2001r/DV/tree/main/Mini%20Project
+GitHub link --> https://github.com/shekar2001r/DV/edit/main/DV_MiniProject/readme.txt
 
 Demo link --> https://www.loom.com/share/a13f12939e2c4c9aa94e462ad4e10a03   (please watch in 1.25x speed)
